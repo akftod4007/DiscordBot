@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "root",
+      "password": "12345678",
+      "database": "sample",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "sample",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "sample",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "guildId": "사용할 디스코드 서버 ID",
+    "clientId": "사용할 서버의 채널 ID",
+    "token": "당신의 챗봇 토큰"
+  }
+  
