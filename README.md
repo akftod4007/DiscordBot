@@ -1,13 +1,9 @@
 ![image](https://github.com/akftod4007/DiscordBot/assets/113909192/1a6dc004-2e17-4837-85c5-6f176e6f443c)# websys2-project
 
 : 디스코드 챗봇을 사용한 일정 관리 시스템
+: 지속적인 서버 작동
 
-### 시퀸스 다이어그램
-![image](https://github.com/akftod4007/DiscordBot/assets/113909192/a2e06fb0-0af4-4ad0-9ee4-5b922651e731)
-![image](https://github.com/akftod4007/DiscordBot/assets/113909192/23f6c8d6-f9e6-4da7-b283-37330fe4bb7d)
-![image](https://github.com/akftod4007/DiscordBot/assets/113909192/e422bd8a-ce12-4b96-bc76-72c5b6c8fdbc)
-![image](https://github.com/akftod4007/DiscordBot/assets/113909192/a0b74e8b-f026-467a-b7ce-7bf9d3e775ca)
-
+### 아키택쳐
 
 
 
