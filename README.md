@@ -1,5 +1,23 @@
 ### 디스코드 챗봇 프로젝트
 
+### 핵심 코드
+<details>
+<summary>여기를 눌러주세요</summary>
+<div markdown="1">       
+
+handlers 함수
+-사용자의 요청을 분류하고 입력받은 챗봇에 모듈화한 함수에 전송해 처리함
+입력 받은 사용자의 요청을 처리하기 위해 기능에 따라서 모듈화함
+![image](https://github.com/akftod4007/DiscordBot/assets/113909192/dfcc5c35-6f2b-4e07-80b6-0f91a1bde180)
+
+utils 함수
+
+
+
+</div>
+</details>
+
+
 ### 프로젝트 소개
 도커 이미지와 구글 클라우드 플랫폼을 이용한 디스코드 챗봇을 사용한 일정 관리 시스템
 
