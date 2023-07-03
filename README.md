@@ -3,15 +3,14 @@
 ### 프로젝트 소개
 도커 이미지와 구글 클라우드 플랫폼을 이용한 디스코드 챗봇을 사용한 일정 관리 시스템
 
+
 ### 구현 화면
 ![image](https://github.com/akftod4007/DiscordBot/assets/113909192/be63fe03-359c-4c7c-a226-58f1f71218eb)
 
 
 
-### 프로젝트 구조
-![image](https://github.com/akftod4007/DiscordBot/assets/113909192/f5640688-0ba5-43a4-90f7-a67f8b9d942a)
-
-챗봇에서 서버에 RESTful API를 Axios를 통해 요청을 보내면 사용자가 입력한 메세지를 통해 정보를 서버에서 저장합니다.
+### 프로젝트 설명
+챗봇에서 특정 커맨드를 입력하면 서버에 RESTful API요청을 Axios를 통해 요청을 보내면 서버에서 입력한 사항을 저장하고 지정된 시간이 되면 서버에서 채널로 메세지를 전송해 줍니다.
 
 handle는 챗봇의 작동을 담당하는 함수입니다.
 utils는 챗봇에 작동에 필요한 함수들을 모듈화해 정리한 폴더입니다.
@@ -22,6 +21,8 @@ routes는 서버에서 챗봇에서 입력받은 정보를 저장하고 관리�
 이렇게 작성된 코드를 도커를 사용해서 이미지를 만들어 구글 클라우드 플랫폼에 업로드한 이후 베포 중 입니다.
 
 ### 아키택쳐
+![image](https://github.com/akftod4007/DiscordBot/assets/113909192/f5640688-0ba5-43a4-90f7-a67f8b9d942a)
+
 언어: JavaScript
 
 프레임워크: Node.js, Express
