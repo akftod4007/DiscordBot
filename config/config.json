@@ -1,23 +1,23 @@
 {
     "development": {
-      "username": "root",
-      "password": "12345678",
-      "database": "sample",
-      "host": "127.0.0.1",
+      "username": "연결할 db 유저이름",
+      "password": "연결할 db 비밀번호",
+      "database": "연결할 db 이름",
+      "host": "연결할 db ip 주소",
       "dialect": "mysql"
     },
     "test": {
-      "username": "root",
-      "password": null,
-      "database": "sample",
-      "host": "127.0.0.1",
+     "username": "연결할 db 유저이름",
+      "password": "연결할 db 비밀번호",
+      "database": "연결할 db 이름",
+      "host": "연결할 db ip 주소",
       "dialect": "mysql"
     },
     "production": {
-      "username": "root",
-      "password": null,
-      "database": "sample",
-      "host": "127.0.0.1",
+      "username": "연결할 db 유저이름",
+      "password": "연결할 db 비밀번호",
+      "database": "연결할 db 이름",
+      "host": "연결할 db ip 주소",
       "dialect": "mysql"
     },
     "guildId": "사용할 디스코드 서버 ID",
