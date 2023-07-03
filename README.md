@@ -15,8 +15,11 @@ routes는 서버에서 챗봇에서 입력받은 정보를 저장하고 관리�
 
 ### 아키택쳐
 언어: JavaScript
+
 프레임워크: Node.js, Express
+
 컨테이너: Docker
+
 클라우드 플랫폼: Google Cloud Platform
 
 ### 사전 요구사항
