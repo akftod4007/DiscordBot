@@ -48,7 +48,8 @@ routes는 서버에서 챗봇에서 입력받은 정보를 저장하고 관리�
 
 
 ### 아키택쳐
-[도커 환경.pptx](https://github.com/akftod4007/DiscordBot/files/12319712/default.pptx)
+![KakaoTalk_20230811_172041387](https://github.com/akftod4007/DiscordBot/assets/113909192/3405e807-5702-4075-b4c8-027c8881ee8f)
+
 
 
 언어: JavaScript
